@@ -685,6 +685,18 @@
       {
         "name": "One hour frame counter (MP4)",
         "uri": "https://storage.googleapis.com/exoplayer-test-media-1/mp4/frame-counter-one-hour.mp4"
+      },
+      {
+        "name": "Broken (MP4)",
+        "uri": "https://files.mordorm.com/broken.mp4"
+      },
+      {
+        "name": "Broken 2 (MP4)",
+        "uri": "https://files.mordorm.com/broken-2.mp4"
+      },
+      {
+        "name": "Broken 2 - Fixed (MP4)",
+        "uri": "https://files.mordorm.com/broken-2-fixed.mp4"
       }
     ]
   }
